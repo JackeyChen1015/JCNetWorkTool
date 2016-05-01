@@ -1,9 +1,9 @@
 //
 //  JCNetWorkToll.m
-//  06-【网络成功和失败的回调】
+//  网络成功和失败的回调
 //
-//  Created by 陈鹏 on 16/1/13.
-//  Copyright © 2016年 itcast. All rights reserved.
+//  Created by JackeyChen on 16/1/13.
+//  Copyright © 2016年 Apple. All rights reserved.
 //
 
 #import "JCNetWorkToll.h"
